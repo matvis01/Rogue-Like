@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6DA6CC05-2F7F-7F22-9153-FA7FD16C469D}</ProjectGuid>
+    <ProjectGuid>{FF978B6B-757F-7F50-E5A8-4389376A05FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,9 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\Spell.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\SpellController.cs" />
-    <Compile Include="Assets\Scripts\Spell.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
